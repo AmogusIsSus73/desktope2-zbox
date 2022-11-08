@@ -1,0 +1,213 @@
+body {
+  position: relative;
+width: 100%;
+height: 1024px;
+background: radial-gradient(100% 197.75% at 0% 0%, #1E2761 41.41%, #7A2048 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */; 
+}
+
+.box1{
+position: absolute;
+width: 100%;
+height: 126px;
+left: 0px;
+top: 0px;
+
+background: #0F0326;
+border: 10px solid #0F0326;
+}
+
+h1 {
+position: absolute;
+width: 210px;
+height: 61px;
+left: 131px;
+top: 33px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 48px;
+line-height: 58px;
+
+color: #FFFFFF;
+}
+
+p {
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 10px;
+gap: 10px;
+
+position: absolute;
+width: 361px;
+height: 59px;
+left: 960px;
+top: 12px;
+
+color: #FFFFFF;
+}
+
+h2 {
+position: absolute;
+width: 678px;
+height: 80px;
+left: 47px;
+top: 196px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 32px;
+line-height: 39px;
+
+color: #FFFFFF;
+}
+
+.амогус
+/* Far Cry 6 */
+{
+position: absolute;
+width: 308px;
+height: 51px;
+left: 31px;
+top: 146px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 32px;
+line-height: 39px;
+
+color: #FFFFFF;
+}
+
+.амогус2
+{
+position: absolute;
+width: 411px;
+height: 488px;
+left: 31px;
+top: 190px;
+
+background: url(7b9d20a65b9f430b986bd92eb7f1a63f.jpg);
+border: 5px solid #52B788;
+}
+
+.амогус3
+/* 999 Руб */
+{
+position: absolute;
+width: 270px;
+height: 49px;
+left: 31px;
+top: 700px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 48px;
+line-height: 58px;
+
+color: #FFFFFF;
+}
+
+.амогус4
+/* Описание */
+{
+
+position: absolute;
+width: 450px;
+height: 80px;
+left: 593px;
+top: 146px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 64px;
+line-height: 77px;
+
+color: #FFFFFF;
+}
+
+.амогус5
+/* Компьютерная игра в жанре шутера от первого лица и action-adventure, разработанная студией Ubisoft Toronto и изданная компанией Ubisoft. Является шестой основной игрой из одноимённой серии. Действие происходит в вымышленной тропической стране Яра, и повествует о противостоянии главного героя местного сопротивления по имени Дани Рохас и жестокого диктатора Антона Кастильо. Создатели были вдохновлены действиями партизан Кубы. На официальном сайте Far Cry 6 назван политической игрой */
+{
+position: absolute;
+width: 790px;
+height: 473px;
+left: 593px;
+top: 253px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 39px;
+
+color: #FFFFFF;
+}
+
+.амогус6
+/* Купить */
+{
+position: absolute;
+width: 246px;
+height: 49px;
+left: 146px;
+top: 849px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 48px;
+line-height: 58px;
+
+color: #FFFFFF;
+}
+
+.амогус7
+/* Rectangle 17 */
+{
+position: absolute;
+width: 379px;
+height: 88px;
+left: 47px;
+top: 835px;
+
+background: #52B788;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 60px;
+}
+
+.амогус8
+/* Rectangle 20 */
+{
+position: absolute;
+width: 370px;
+height: 126px;
+left: 1071px;
+top: 790px;
+
+background: #52B788;
+border-radius: 90px;
+}
+
+.амогус9
+/* На главную страницу */
+{
+position: absolute;
+width: 294px;
+height: 70px;
+left: 1147px;
+top: 818px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 32px;
+line-height: 39px;
+
+color: #FFFFFF;
+}
